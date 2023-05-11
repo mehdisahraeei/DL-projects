@@ -1,0 +1,19 @@
+path:
+
+
+yolov5: https://github.com/ultralytics/yolov5
+
+--------------------------------------------------------------------
+
+dataset: https://www.kaggle.com/datasets/ahmedhaytham/car-detection?select=data.yaml
+
+How to use Kaggle datasets in Google Colab?:
+https://medium.com/unpackai/how-to-use-kaggle-datasets-in-google-colab-f9b2e4b5767c
+
+--------------------------------------------------------------------
+
+
+creating dataset: https://app.roboflow.com/
+
+
+run on colab

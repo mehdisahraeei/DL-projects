@@ -1,0 +1,12 @@
+# path
+train: /content/yolov5/dataset/train/image
+val: /content/yolov5/dataset/val/image
+test: /content/yolov5/dataset/test/image
+
+
+# number of classes
+nc: 5
+
+
+# class names
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
