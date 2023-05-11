@@ -1,0 +1,12 @@
+path:
+
+
+tip: If the test_images and output folders do not exist, they must be created
+
+--------------------------------------------------------------------
+
+https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
+
+--------------------------------------------------------------------
+
+run on colab
