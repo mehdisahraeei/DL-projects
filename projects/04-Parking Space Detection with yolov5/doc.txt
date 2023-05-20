@@ -1,0 +1,15 @@
+path:
+
+
+yolov5: https://github.com/ultralytics/yolov5
+
+
+dataset: https://www.kaggle.com/datasets/wangwanqi/parking
+
+
+path yaml: /content/yolov5/data/dataset.yaml
+
+
+
+
+run on colab
